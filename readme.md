@@ -2,7 +2,7 @@
 
 1. Download the project.  
 2. Extract the zip file.
-3. Start redis server by the command ```redis-server``` (redis has to be installed in your system and has to be running in its default port).
+3. Start redis server by the command ```redis-server``` (redis has to be installed in your system and has to be running in its default port). https://medium.com/@ss.shawnshi/how-to-install-redis-on-ec2-server-for-fast-in-memory-database-f30c3ef8c35e
 4. Go to the location where your package.json resides.  
 5. Run the command "npm install".  
 6. After all the dependencies get installed, run the command "npm start".
