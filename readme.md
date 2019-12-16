@@ -29,3 +29,9 @@
 3. ![Alt text](screenshots/EditProfile.png?raw=true "Title")
 4. ![Alt text](screenshots/OpenTweet.png?raw=true "Title")
 5. ![Alt text](screenshots/Analytics.png?raw=true "Title")
+
+## Deployment
+
+1. Use tmux to keep zookeeper running in background.  
+2. .env file is AWS key manager.  
+3. dockerising will do better than manual scaling method.  
