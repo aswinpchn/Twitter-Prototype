@@ -33,5 +33,5 @@
 ## Deployment
 
 1. Use tmux to keep zookeeper running in background.  
-2. .env file is AWS key manager.  
+2. .env file is AWS systems manager -> Application management -> Parameter store.  https://us-west-1.console.aws.amazon.com/systems-manager/parameters?region=us-west-1
 3. dockerising will do better than manual scaling method.  
