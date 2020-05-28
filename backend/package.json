@@ -40,7 +40,9 @@
     "redis": "^2.8.0",
     "redis-server": "^1.2.2",
     "sequelize": "^5.19.0",
-    "uuid": "^3.3.3"
+    "uuid": "^3.3.3",
+    "minimist": "^1.2.5",
+    "kind-of": "^6.0.3"
   },
   "devDependencies": {
     "eslint": "^6.7.2",
